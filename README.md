@@ -1,16 +1,16 @@
-### Hi there 👋
+# **Olá, bem-vindo ao meu perfil!**
 
-<!--
-**Fernandaqsouza/Fernandaqsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu?
 
-Here are some ideas to get you started:
+* 😃 Fernanda de Queiroz Souza
+* 👩‍🎓 Engenharia Mecânica - UFPE
+* ⏳ Curso Dominando Data Science - FLAI (em andamento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades - Grau de Conhecimento
+
+* 📄 SQL/Phyton – Em andamento 
+*	💻Pacote Office (Power point, Word, Planner, Teams) – Básico
+*	📊 Power BI – Pré-intermediário
+*	🔧 ETL com Power Query – Pré-intermediário
+*	📈 Excel - Intermediário
+*	🖥SAP PM – Intermediário
