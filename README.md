@@ -9,7 +9,7 @@
 
 ## Habilidades - Grau de Conhecimento
 
-* 📄 SQL/Phyton – Em andamento 
+* 📄 SQL/Phyton – Básico 
 *	💻Pacote Office (Power point, Word, Planner, Teams) – Básico
 *	📊 Power BI – Pré-intermediário
 *	🔧 ETL com Power Query – Pré-intermediário
