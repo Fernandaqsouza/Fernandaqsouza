@@ -11,7 +11,6 @@
 
 * 📄 SQL/Phyton – Básico 
 *	💻Pacote Office (Power point, Word, Planner, Teams) – Básico
-*	📊 Power BI – Pré-intermediário
-*	🔧 ETL com Power Query – Pré-intermediário
+*	📊 Power BI – Intermediário
+*	🔧 ETL com Power Query – Intermediário
 *	📈 Excel - Intermediário
-*	🖥SAP PM – Intermediário
