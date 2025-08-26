@@ -4,8 +4,8 @@
 
 * 😃 Fernanda de Queiroz Souza
 * 👩‍🎓 Engenharia Mecânica - UFPE
-* ⏳ Curso Dominando Data Science - FLAI
-* ⏳ MBA BI & Analytics - CIn UFPE
+* :heavy_check_mark: Curso Dominando Data Science - FLAI
+* :heavy_check_mark: MBA BI & Analytics - CIn UFPE
 
 ## Habilidades - Grau de Conhecimento
 
